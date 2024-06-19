@@ -1,5 +1,6 @@
 # TranSegNet
 This repo holds code for [https://pubmed.ncbi.nlm.nih.gov/37109505/]
+
 Inspired by [TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation](https://arxiv.org/pdf/2102.04306.pdf)
 
 ## 📰 News
