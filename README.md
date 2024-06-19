@@ -41,6 +41,7 @@ python test.py --dataset Synapse --vit_name R50-ViT-B_16
 
 ### 5. FYI 
 This repo is NOT a official code base of papers above. This is a repo that contains reversely built model based on the thesis of TranSegnet. Made for the cataract detection experiment in the fundus photograph.
+
 Made by _Maison.Jang, Samsung Medical Center AI Reasearch_
 
 ## Reference
